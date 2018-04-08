@@ -1,1 +1,1 @@
-this is some code useful
+常见js数据操作方式
